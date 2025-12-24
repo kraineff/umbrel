@@ -4,7 +4,7 @@ name: Minecraft Server
 tagline: A cross-platform Minecraft server
 icon: https://svgur.com/i/mvA.svg
 category: gaming
-version: "1.0.0"
+version: "1.0.1"
 port: 25566
 description: >-
   A cross-platform Minecraft server
