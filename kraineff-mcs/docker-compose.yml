@@ -19,6 +19,7 @@ services:
     environment:
       EULA: "TRUE"
       TYPE: PAPER
+      MODRINTH_PROJECTS_DEFAULT_VERSION_TYPE: beta
       MODRINTH_PROJECTS: |
         geyser
         viaversion
