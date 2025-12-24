@@ -19,6 +19,8 @@ services:
     environment:
       EULA: "TRUE"
       TYPE: PAPER
+      VERSION: 1.21.11
+      PAPER_CHANNEL: experimental
       MODRINTH_PROJECTS_DEFAULT_VERSION_TYPE: beta
       MODRINTH_PROJECTS: |
         geyser
