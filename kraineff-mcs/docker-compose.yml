@@ -20,7 +20,6 @@ services:
       EULA: "TRUE"
       TYPE: PAPER
       MODRINTH_PROJECTS: |
+        geyser
         viaversion
         viabackwards
-      PLUGINS: |
-        https://download.geysermc.org/v2/projects/geyser/versions/latest/builds/latest/downloads/spigot
